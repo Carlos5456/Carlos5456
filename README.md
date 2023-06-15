@@ -20,9 +20,9 @@
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img align="center" alt="Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" /> -->
-  Tecnologia em Análise e Desenvolvimento de Sistemas – Cursando
-  PYTHON ESSENTIALS 1 | Cisco Networking Academy / Python Institute
-  SEMANA DE SEGURANÇA CIBERNÉTICA UNINTER 2023
+  Tecnologia em Análise e Desenvolvimento de Sistemas – Cursando <br>
+  PYTHON ESSENTIALS 1 | Cisco Networking Academy / Python Institute <br>
+  SEMANA DE SEGURANÇA CIBERNÉTICA UNINTER 2023 <br>
 </div>
   
   ##
