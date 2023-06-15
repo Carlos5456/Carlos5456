@@ -1,4 +1,5 @@
-## Meu nome é Carlos César Estou iniciando no mundo da programação😉
+## Meu nome é Carlos César faço desenvolvimento web fullstack.
+
 <div align="center">
   <a href="https://github.com/Carlos5456">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos5456&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -19,7 +20,9 @@
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img align="center" alt="Jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" /> -->
-                
+  Tecnologia em Análise e Desenvolvimento de Sistemas – Cursando
+  PYTHON ESSENTIALS 1 | Cisco Networking Academy / Python Institute
+  SEMANA DE SEGURANÇA CIBERNÉTICA UNINTER 2023
 </div>
   
   ##
