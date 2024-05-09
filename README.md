@@ -1,4 +1,5 @@
-## Meu nome é Carlos César, atualmente trabalho com Infraestrutura de redes e servidores na NTN ROLAMNETOS DO BRASIL
+## Meu nome é Carlos César.
+## Atualmente trabalho com Infraestrutura de redes e servidores na NTN ROLAMENTOS DO BRASIL.
 
 <div align="center">
   <a href="https://github.com/Carlos5456">
